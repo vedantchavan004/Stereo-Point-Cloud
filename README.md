@@ -26,7 +26,7 @@ Generated point cloud visualizations:
 
 # Interactive Point Cloud
 
-👉 [Click here to view the 3D point cloud](https://vedantchavan004.github.io/Stereo-Point-Cloud/)
+👉 [Click here to view the 3D point cloud](https://sketchfab.com/models/d4f985910f1b4db3b793f65844a98f4a/embed)
 
 
 
