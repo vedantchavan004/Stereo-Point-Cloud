@@ -26,7 +26,7 @@ Generated point cloud visualizations:
 
 # Interactive Point Cloud
 
-<iframe width="800" height="600" src="https://skfb.ly/p97WH" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://sketchfab.com/models/d4f985910f1b4db3b793f65844a98f4a/embed" frameborder="0" allowfullscreen></iframe>
 
 
 
