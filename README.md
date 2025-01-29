@@ -26,5 +26,8 @@ Generated point cloud visualizations:
 
 # Interactive Point Cloud
 
-<iframe width="800" height="600" src="<div class="sketchfab-embed-wrapper"> <iframe title="point_cloud_result" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/d4f985910f1b4db3b793f65844a98f4a/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/point-cloud-result-d4f985910f1b4db3b793f65844a98f4a?utm_medium=embed&utm_campaign=share-popup&utm_content=d4f985910f1b4db3b793f65844a98f4a" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> point_cloud_result </a> by <a href="https://sketchfab.com/vedant047?utm_medium=embed&utm_campaign=share-popup&utm_content=d4f985910f1b4db3b793f65844a98f4a" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> vedant047 </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=d4f985910f1b4db3b793f65844a98f4a" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://skfb.ly/p97WH" frameborder="0" allowfullscreen></iframe>
+
+
+
 
