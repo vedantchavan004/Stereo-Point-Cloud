@@ -15,6 +15,10 @@ The computed disparity map:
 ## 3. Point Cloud Outputs
 Generated point cloud visualizations:
 
+# Interactive Point Cloud
+
+👉 [Click here to view the 3D point cloud](https://sketchfab.com/models/d4f985910f1b4db3b793f65844a98f4a/embed)
+
 **Point Cloud 1:**
 ![Point Cloud 1](images/output_1.PNG)
 
@@ -24,9 +28,7 @@ Generated point cloud visualizations:
 **Point Cloud 3:**
 ![Point Cloud 3](images/output_3.PNG)
 
-# Interactive Point Cloud
 
-👉 [Click here to view the 3D point cloud](https://sketchfab.com/models/d4f985910f1b4db3b793f65844a98f4a/embed)
 
 
 
